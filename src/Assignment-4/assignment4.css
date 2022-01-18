@@ -12,7 +12,7 @@ height: 100%;
 .page-logo {
     width: 90px;
     height: 80px;
-    margin: 0px 10px;
+    margin: 0px, 10px;
 }
 .page-header a {
     float: right;
